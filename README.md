@@ -12,7 +12,7 @@ The goal of this project is to show how a reinforcement learning (RL) agent can 
 ## Quick Start
 
 ### 1. Clone the repository
-git clone https://github.com/nicknochnack/Reinforcement-Learning-for-Trading.git
+git clone https://github.com/ines-besrour/TradeGym-RL.git
 cd Reinforcement-Learning-for-Trading
 
 ### 2. Install dependencies
